@@ -1,0 +1,49 @@
+#form {
+  background-color :rgb(193, 255, 124);
+  color: rgb(0, 0, 0);
+  margin: 20px auto 10px auto;
+  padding : 10px;
+  width : 700px;
+  box-shadow: 0 0 2px 2px #d9d9d9;
+}
+
+#form label{
+  /*width: 150px;*/
+  /*text-transform:uppercase;*/
+  display:inline-block;
+  font-family: ubuntu;
+}
+
+.judul{
+  background: #87D1D8;
+  padding: 10px;
+  text-align: center;
+}
+
+.judul h1,h2,h3{
+  height: 15px;
+}
+
+.tombol,a{
+  padding : 3px;
+  text-decoration: none;
+  background-color: rgb(54, 210, 251);
+}
+
+.table{
+  border-collapse: collapse;
+  /*background-color: rgb(54, 210, 251);*/
+
+}
+
+table.table th th , table.table tr td{
+  padding: 10px 20px;
+}
+.cari{
+  text-align: right;
+}
+
+body{
+  background-color: rgb(168, 168, 168);
+
+}
